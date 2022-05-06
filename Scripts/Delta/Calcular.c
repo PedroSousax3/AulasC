@@ -24,6 +24,5 @@ int main () {
     return 0;
 
     //Compilação
-    
     //mkdir ./bin/Delta & gcc ./Scripts/Delta/Calcular.c -o ./bin/Delta/Calcular.bin 
 }
