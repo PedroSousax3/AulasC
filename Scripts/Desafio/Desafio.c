@@ -11,6 +11,7 @@ int main() {
     //Processamento de dados
     int resultado = numero % 2;
     
+    
     //Saída de dados
     printf("%d\n", resultado);
     return 0;
